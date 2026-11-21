@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" role="img" aria-label="Avra Realty mark">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="64" y2="64" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#E2C56D"/>
+      <stop offset="1" stop-color="#B8963E"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="12" fill="#0B1D36"/>
+  <path d="M32 12 L52 28 V50 H38 V38 H26 V50 H12 V28 L32 12Z" stroke="url(#g)" stroke-width="2.2" fill="none"/>
+  <path d="M32 20 L42 28 V34 H22 V28 L32 20Z" fill="url(#g)"/>
+  <rect x="28" y="40" width="8" height="10" fill="url(#g)"/>
+</svg>
